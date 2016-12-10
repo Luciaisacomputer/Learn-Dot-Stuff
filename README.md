@@ -13,6 +13,24 @@ You might be asking yourself how this might help you. When you follows these peo
 
 ## Follow blogs with good information on the topic
 
+Once you have a solid network of people, see what blogs they read and use whatever method is best for you to keep track of new posts. I find it especially useful to follow reases notes if they exist for whatever it is you are learning. Currently I folow WordPress core release notes, the Angular 2 Dev blog, and a ton of various Javascript related blogs. 
+
+Make sure to take some time during lunch or whenever you have some down time to read a couple of posts. This is a great way to make sure you aren't missing out on new features or hidden features you might not be using. Sometimes you'll even find a post related to a problem you are working on. 
+
 ## RTFM (Read the full manual)
 
+Whenever I start learning a new language, I go through the docs. This doesn't sound like the most fun thing to do, but there are a lot of benefits. You'll git a very brief overhead view of any language specific features, learn some of the tech terms you will be dealing with, and you'll learn how the docs are structured. S
+
 ## Find a couple training courses, especially if they are at the same skill level
+
+
+
+## RTFB ( Read That Freaking Book)
+
+Online training is great, but many courses don't go deeply into detail, which can sometimes be a good thing, except when some of that deeper knowledge is extremely useful. That's where books come in. Typically I have found that books can go into a lot deeper detail (look at The Definitive Guide to Javascript!) than their video counterparts. Due to this, I also find it important to find a few books at varying skill levels of a topic. No two books are the same, and they don't always approach a topic in a way that works best for us to understand it. I have at least 3 beginner level JS books hanging out on my shelf, and each one of them helped me understand a topic in a slightly different way. It helps even more if the books are on a specific part of a language such as `this` or `object oriented programming`.
+
+## Teach someone about what you have learned
+
+Yogi Bhajan once said "If you want to learn something, read about it. If you want to understand something, write about it. If you want to master something, teach it" and I find that to be incredibly true. Have you ever learned about something, only to have a hard time discussing the concept to someone who didn't know about that subject? This is exactly what Yogi was talking about. Explaining complex topics is hard, it requires an intimate undrestanding of precisely how it works. We have a bad habbit of lying to ourselves and thinking we know when really, we only know an abstraction of what it is that we think we know. 
+
+Take some time to set up a lunch and learn with your coworkers, friends, or go to a meetup and give a talk about a topic you have just learned. It's going to suck at first, but you'll walk away with a deeper understanding of the subject you presented on. Even if you go on a walk to get some coffee, talking about something cool you learned actually helps you truly understand or at worst helps you to realize you need to continue learning about it. 
