@@ -23,7 +23,9 @@ Whenever I start learning a new language, I go through the docs. This doesn't so
 
 ## Find a couple training courses, especially if they are at the same skill level
 
+Spend some time looking up a couple of online courses, I typically go for a few that are at the same skill level, this helps ensure that I don't end up with any knowledge gaps based on what one instructor might leave out over another one. It also helps to see if there are differences in ways that people are setting up their projects, as well as giving you insight into the tools that they use. 
 
+I've found that you can peacemeal several different courses together to suit whatever your needs are, as well as supplement your learning style with whatever works best for you. Typically I will start off on Team Treehouse and then find a Udemy Course, 
 
 ## RTFB ( Read That Freaking Book)
 
