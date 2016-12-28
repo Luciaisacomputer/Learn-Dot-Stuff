@@ -21,11 +21,11 @@ Make sure to take some time during lunch or whenever you have some down time to 
 
 Whenever I start learning a new language, I go through the docs. This doesn't sound like the most fun thing to do, but there are a lot of benefits. You'll git a very brief overhead view of any language specific features, learn some of the tech terms you will be dealing with, and you'll learn how the docs are structured. S
 
-## Find a couple training courses, especially if they are at the same skill level
+## Find a couple of training courses, especially if they are at the same skill level
 
 Spend some time looking up a couple of online courses, I typically go for a few that are at the same skill level, this helps ensure that I don't end up with any knowledge gaps based on what one instructor might leave out over another one. It also helps to see if there are differences in ways that people are setting up their projects, as well as giving you insight into the tools that they use. 
 
-I've found that you can peacemeal several different courses together to suit whatever your needs are, as well as supplement your learning style with whatever works best for you. Typically I will start off on Team Treehouse and then find a Udemy Course, 
+I've found that you can peacemeal several different courses together to suit whatever your needs are, as well as supplement your learning style with whatever works best for you. Typically I will start off on Team Treehouse and then find a Udemy Course that is similar. This helps to make sure that one instructor isn't leaving something out that another might cover. In some cases you will find that some teachers don't deep dive enough, and while that is okay you might be missing out on the "why" of what you are doing. 
 
 ## RTFB ( Read That Freaking Book)
 
@@ -36,3 +36,7 @@ Online training is great, but many courses don't go deeply into detail, which ca
 Yogi Bhajan once said "If you want to learn something, read about it. If you want to understand something, write about it. If you want to master something, teach it" and I find that to be incredibly true. Have you ever learned about something, only to have a hard time discussing the concept to someone who didn't know about that subject? This is exactly what Yogi was talking about. Explaining complex topics is hard, it requires an intimate undrestanding of precisely how it works. We have a bad habbit of lying to ourselves and thinking we know when really, we only know an abstraction of what it is that we think we know. 
 
 Take some time to set up a lunch and learn with your coworkers, friends, or go to a meetup and give a talk about a topic you have just learned. It's going to suck at first, but you'll walk away with a deeper understanding of the subject you presented on. Even if you go on a walk to get some coffee, talking about something cool you learned actually helps you truly understand or at worst helps you to realize you need to continue learning about it. 
+
+## Find a Mentor
+
+This one is a lot harder to do, but if you can find someone at a higher level than you to act as a mentor, it can really go a long way. They don't even need to live near you, if you can find someone to talk to through Skype, Hangouts, etc that will work too. There are also code mentoring services like https://www.codementor.io/ which I can't speak for since I have no experience with them, but they do provide a way to connect with people to help you level up your skills. 
