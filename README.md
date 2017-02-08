@@ -5,6 +5,10 @@ Let's all face it, technology moves at such a rapid pace that it is really hard 
 
 Over the years I've worked on my stacks of technology, everything from IT related work such as networking to API driven Angular applications. My ability to quickly pick up new tech and learn broadly but deeply at the same time never goes unnoticed. Sometimes people accuse me of witchcraft, but in reality it is really just a simple process I have discovered to help train me as I go. 
 
+## Learn how you learn
+
+There are four types of primary active learning styes: visual, auditory, read-write, and kinesthetic. It is very important to find out which one of these suits best, as it will have an impact on the route you will choose for your learning materials
+
 ## Find people who do what you want to do
 
 The first step is to network and find people or groups who do whatever it is that you want to do. Say that you want to learn Javascript. You could look on Twitter for people who work directly with JS, people such as Wes Bos or Eric Elliot. See how much information they share, the more the better. Look in your area to see if there are any meetups about Javascript, chances are there is at least one. Even if you can't find a local group, there are numerous Facebook and Slack groups dedicated to just about every JS project out there. 
