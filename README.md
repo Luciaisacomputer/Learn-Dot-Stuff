@@ -7,7 +7,9 @@ Over the years I've worked on my stacks of technology, everything from IT relate
 
 ## Learn how you learn
 
-There are four types of primary active learning styes: visual, auditory, read-write, and kinesthetic. It is very important to find out which one of these suits best, as it will have an impact on the route you will choose for your learning materials
+There are four types of primary active learning styes: visual, auditory, read-write, and kinesthetic. It is very important to find out which one of these suits best, as it will have an impact on the route you will choose for your learning materials. I prefer to watch videos when I am first learning something, and follow them step by step to develop some basic muscle memory. After I am comfortable I tend to build something small and play around with it. I'll then read a book or two to make sure there weren't any gaps missed by the video lessons. 
+
+The other important piece of learning is knowing what time of the day suites your best for learning. I find that I tend to learn best at night or early in the morning. As it gets later in the day I have less focus and tend to do better working on repetitive tasks versus mentally intense work.
 
 ## Find people who do what you want to do
 
