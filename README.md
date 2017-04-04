@@ -41,6 +41,10 @@ I've found that you can peacemeal several different courses together to suit wha
 
 Online training is great, but many courses don't go deeply into detail, which can sometimes be a good thing, except when some of that deeper knowledge is extremely useful. That's where books come in. Typically I have found that books can go into a lot deeper detail (look at The Definitive Guide to Javascript!) than their video counterparts. Due to this, I also find it important to find a few books at varying skill levels of a topic. No two books are the same, and they don't always approach a topic in a way that works best for us to understand it. I have at least 3 beginner level JS books hanging out on my shelf, and each one of them helped me understand a topic in a slightly different way. It helps even more if the books are on a specific part of a language such as `this` or `object oriented programming`.
 
+## Have a pet project
+
+It is very useful to have a project that you work on even on a very limited basis. Whether it is a simple ToDo list program or a photo gallery of kittens, having something to work on that isn't work related allows you to try out new technologies or techniques without worrying about time and budget. 
+
 ## Teach someone about what you have learned
 
 Yogi Bhajan once said "If you want to learn something, read about it. If you want to understand something, write about it. If you want to master something, teach it" and I find that to be incredibly true. Have you ever learned about something, only to have a hard time discussing the concept to someone who didn't know about that subject? This is exactly what Yogi was talking about. Explaining complex topics is hard, it requires an intimate undrestanding of precisely how it works. We have a bad habbit of lying to ourselves and thinking we know when really, we only know an abstraction of what it is that we think we know. 
