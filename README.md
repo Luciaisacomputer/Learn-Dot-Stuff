@@ -5,6 +5,8 @@ Let's all face it, technology moves at such a rapid pace that it is really hard 
 
 Over the years I've worked on my stacks of technology, everything from IT related work such as networking to API driven Angular applications. My ability to quickly pick up new tech and learn broadly but deeply at the same time never goes unnoticed. Sometimes people accuse me of witchcraft, but in reality it is really just a simple process I have discovered to help train me as I go. 
 
+Index To Go here
+
 ## Learn how you learn
 
 There are four types of primary active learning styes: visual, auditory, read-write, and kinesthetic. It is very important to find out which one of these suits best, as it will have an impact on the route you will choose for your learning materials. I prefer to watch videos when I am first learning something, and follow them step by step to develop some basic muscle memory. After I am comfortable I tend to build something small and play around with it. I'll then read a book or two to make sure there weren't any gaps missed by the video lessons. 
