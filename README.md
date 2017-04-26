@@ -17,6 +17,8 @@ The other important piece of learning is knowing what time of the day suites you
 
 The first step is to network and find people or groups who do whatever it is that you want to do. Say that you want to learn Javascript. You could look on Twitter for people who work directly with JS, people such as Wes Bos or Eric Elliot. See how much information they share, the more the better. Look in your area to see if there are any meetups about Javascript, chances are there is at least one. Even if you can't find a local group, there are numerous Facebook and Slack groups dedicated to just about every JS project out there. 
 
+Make sure the people you are following fill a diverse spectrum. Follow queer, poc, and women developers as this will give you a better perspective of the world.
+
 You might be asking yourself how this might help you. When you follows these people you will also be following all the information they share. You'll start to see patterns in what they talk about, how they talk about it, and possibly find answers to problems you might encounter later on. When I first started using WordPress I joined the Advanced WordPress group on Facebook, and it has been a treasure trove of information. Sometimes I'd see someone mention an awesome plugin that I might not have needed at the time, but because I followed those topics, I remembered the plugin and was able to quickly solve a client problem.
 
 ## Talk to other people in your field
