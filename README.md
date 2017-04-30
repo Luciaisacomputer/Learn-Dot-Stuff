@@ -58,3 +58,6 @@ Take some time to set up a lunch and learn with your coworkers, friends, or go t
 ## Find a Mentor
 
 This one is a lot harder to do, but if you can find someone at a higher level than you to act as a mentor, it can really go a long way. They don't even need to live near you, if you can find someone to talk to through Skype, Hangouts, etc that will work too. There are also code mentoring services like https://www.codementor.io/ which I can't speak for since I have no experience with them, but they do provide a way to connect with people to help you level up your skills. 
+
+
+### Need to add a section here with resources and links to scientific studies
