@@ -59,3 +59,6 @@ This one is a lot harder to do, but if you can find someone at a higher level th
 
 
 ### Need to add a section here with resources and links to scientific studies
+
+
+(Lessons Learned On Mentoring)[https://dev.to/pbeekums/some-lessons-learned-on-mentoring}
